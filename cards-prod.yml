@@ -3,7 +3,7 @@ build:
   version: "1.0.0"
 
 cards:
-  message: "Cards microservice is active in Production environment"
+  message: "Cards microservice is active in prod environment"
   contactDetails:
     name: "Bhavesh Muthyalu"
     email: "bhavesh16281@gmail.com"
