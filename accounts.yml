@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Accounts microservice is active"
+  message: "Accounts microservice is active for default profile"
   contactDetails:
     name: "Muthyalu Bhavesh"
     email: "bhavesh16281@gmail.com"
