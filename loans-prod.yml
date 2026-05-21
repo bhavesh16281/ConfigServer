@@ -3,7 +3,7 @@ build:
   version: "0.3"
 
 loans:
-  message: "Loans microservice is active in Production environment"
+  message: "Loans microservice is active in prod environment"
   contactDetails:
     name: "Bhavesh Muthyalu"
     email: "bhavesh16281@gmail.com"
