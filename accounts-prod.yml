@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Accounts microservice is active in Production environment"
+  message: "Accounts microservice is active in prod environment"
   contactDetails:
     name: "Bhavesh Muthyalu"
     email: "{cipher}0e9388cc1aad604667302d3dcdb78678003bb3dec98457d61d270448c21f7373ef6bdd4c8e66dfd8fd3c8b013218a968"
