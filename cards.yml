@@ -3,7 +3,7 @@ build:
   version: "3.0.0"
 
 cards:
-  message: "Cards microservice is active"
+  message: "Cards microservice is active with default profile"
   contactDetails:
     name: "Muthyalu Bhavesh"
     email: "bhavesh16281@gmail.com"
