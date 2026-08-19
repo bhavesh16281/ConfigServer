@@ -5,6 +5,6 @@ build:
 cards:
   message: "Cards microservice is active with default profile"
   contactDetails:
-    name: "Bhavesh"
+    name: "M.Bhavesh"
     email: "bhavesh16281@gmail.com"
     phone: "+91 8309828565"
