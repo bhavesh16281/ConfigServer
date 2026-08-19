@@ -5,6 +5,6 @@ build:
 accounts:
   message: "Accounts microservice is active for default profile"
   contactDetails:
-    name: "Bhavesh"
+    name: "Bhavesh M"
     email: "bhavesh16281@gmail.com"
     phone: "+91 8309828565"
