@@ -3,7 +3,7 @@ build:
   version: "0.2"
 
 loans:
-  message: "Loans microservice is active in UAT environment"
+  message: "Loans microservice is active in QA environment"
   contactDetails:
     name: "Muthyalu Bhavesh"
     email: "bhavesh16281@gmail.com"
